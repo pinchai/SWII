@@ -1,6 +1,4 @@
 # Project Task: Personal Portfolio Website
-
-## 1. Objective
 Develop a personal portfolio website to showcase your profile, skills, and projects using modern web technologies.
 
 ## 2. Requirements
@@ -20,7 +18,6 @@ Develop a personal portfolio website to showcase your profile, skills, and proje
 - Upload the complete project source code to **GitHub**.
 - Ensure:
   - Proper project structure
-  - Meaningful commit messages
   - Public repository access
 
 ## 4. Deployment
@@ -34,12 +31,4 @@ Students must submit the following:
 3. A recorded video demonstration that includes:
    - Overview of the website
    - Explanation of key features
-   - Walkthrough of the source code  
-
-## 6. Evaluation Criteria
-- Design and layout  
-- Responsiveness (mobile-friendly)  
-- Code quality and structure  
-- Proper use of Bootstrap  
-- Functionality and completeness  
-- Clarity of video presentation  
+   - Walkthrough of the source code   
